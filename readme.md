@@ -11,7 +11,7 @@ This repository is built step by step in the tutorial.
 6. Git Branch Merge OK
 7. GitHub Account OK
 8. Git GitHub Edit Code OK
-9. Git Pull from GitHub
+9. Git Pull from GitHub OK
 10. Git Push to GitHub
 11. Git GitHub Branch
 12. Git Pull Branch from GitHub
